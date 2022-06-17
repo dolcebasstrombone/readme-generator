@@ -95,7 +95,7 @@ const questions = [
     type: "list",
     name: "liscense",
     message: "Please enter the liscense for your project.",
-    choices: ["MIT", "Apache", "GPL"],
+    choices: ["MIT", "Apache", "GNU GPL", "None"],
   },
   //github username
   {
